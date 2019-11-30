@@ -9,6 +9,7 @@ gem 'rails', '~> 6.0.1'
 group :development do
   gem 'sqlite3', '~> 1.4'
 end
+# Use progress as production db
 group :production do 
   gem 'pg'
 end  
