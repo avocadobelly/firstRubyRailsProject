@@ -31,7 +31,7 @@ h1 {
 }
 
 body {
-	background-color: #266086;
+	background-color: #C8D8EF;
 }
 
 .link:hover {
@@ -42,8 +42,9 @@ body {
 a:hover {
 	background-color: transparent;
 	color: #faba06;
-	border: 1px solid #faba06;
-	border-radius: 3px;
-	padding:6px 3px;
 	text-decoration: none;
+}
+
+.navbar {
+	background-color: #266086;
 }
