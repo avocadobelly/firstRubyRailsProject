@@ -27,7 +27,7 @@ th {
 }
 
 h1 {
-	color: #faba06;
+	color: #72376a
 }
 
 body {
@@ -35,13 +35,13 @@ body {
 }
 
 .link:hover {
-	color: #faba06;
+	color: #72376a;
 	background-color: transparent;
 }
 
 a:hover {
 	background-color: transparent;
-	color: #faba06;
+	color: #72376a;
 	text-decoration: none;
 }
 

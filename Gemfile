@@ -15,6 +15,8 @@ group :production do
 end  
 # carrierwave package
 gem 'carrierwave'
+#mini_magick package
+gem 'mini_magick'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
