@@ -39,3 +39,14 @@ body {
 	background-color: transparent;
 }
 
+a:hover {
+	background-color: transparent;
+	color: #faba06;
+	border: 1px solid #faba06;
+	border-radius: 3px;
+	padding:6px 3px;
+	text-decoration: none;
+}
+
+
+
